@@ -16,35 +16,38 @@ Here are some ideas to get you started:
 -->
 # Binod Bishwakarma
 
-Full-stack engineer building AI/ML-powered systems for scalable, real-world applications.
+Full-stack engineer building AI/ML-powered systems for real-world use.
 
-Building systems, not features.
+> Building systems, not features.
 
 ---
 
 ## Work
 
-- **AI Study Assistant** — LLM-powered system for PDF → flashcards & quizzes  
-- **Smart News** — full-stack platform with fast search and NLP summarization (Dockerized)  
-- **AI Health PWA** — AI chat + voice-enabled healthcare application  
-- **Attendance Tracker** — offline-first PWA for reliable daily tracking  
+| Project | What it does | Stack |
+ [AI Study Assistant](#) | PDF → flashcards & quizzes via LLMs | Next.js · FastAPI · Groq/Gemini 
+ [SmartNews](#) | NLP-powered news aggregation + search | FastAPI · scikit-learn · Docker 
+ [AI Health PWA](#) | AI chat + voice-enabled healthcare app | React · Python · LLMs 
+ [Attendance Tracker](#) | Offline-first PWA for daily tracking | React · Node.js · PWA 
+
+*(Replace `#` with live demo or repo links)*
 
 ---
 
 ## Stack
 
-React · Node.js · Express · MongoDB · Redis  
-Python · NLP · LLMs (OpenAI, Gemini, Groq)  
-Docker · PWA · Offline-first systems  
+**Frontend** — React · Next.js · TypeScript · PWA  
+**Backend** — Node.js · FastAPI · Python · Express  
+**AI/ML** — scikit-learn · LLMs (Groq · Gemini · OpenAI) · NLP  
+**Infra** — Docker · Redis · MongoDB · Supabase  
 
 ---
 
+## Approach
 
+- Design for scale from day one
+- Prefer clarity over complexity
+- Build with measurable impact
 
-## Engineering Approach
-
-- Design for scale from day one  
-- Prefer clarity over complexity  
-- Build systems with measurable impact  
-
+---
 
