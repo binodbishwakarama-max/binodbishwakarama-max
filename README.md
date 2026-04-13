@@ -44,36 +44,36 @@ End-to-end AI system that transforms unstructured content into structured learni
 
 ---
 
-### API Sentinel *(in progress)*
-API monitoring and observability platform for reliability and performance tracking.
-
-- Real-time endpoint health checks and latency tracking  
-- Logging and diagnostics pipeline for failure detection  
-- Designed for extensibility toward anomaly detection  
-
-**Stack:** Node.js, Express, Redis, event-driven workers
-
----
-
 ### Smart News
-AI-powered content aggregation and summarization system.
+Full-stack news platform optimized for fast access, clean reading, and intelligent content discovery.
 
-- Implemented NLP-based summarization and classification  
-- Built continuous ingestion pipeline for dynamic content  
-- Optimized for fast retrieval and filtering  
+- Improved reading experience through simplified UI design  
+- Built efficient search for faster content retrieval  
+- Developed content discovery features to surface relevant stories  
+- Containerized with Docker to ensure consistent and reliable deployment  
 
-**Stack:** Python, NLP
+**Focus Areas:** Full-stack · Search · Content Discovery · Python 
 
 ---
+### Class Attendance Tracker (PWA)
+Offline-first attendance tracking application optimized for reliability and low-friction usage.
 
-### COVID Dashboard
-Interactive analytics dashboard for real-time data visualization.
+- Designed class-based workflows for structured data entry  
+- Implemented local-first storage to ensure offline availability  
+- Enabled PWA capabilities for installable, cross-device access  
+- Built lightweight sync logic for data consistency  
 
-- Designed structured data pipelines for visualization  
-- Built responsive UI for analytical insights  
+**Focus Areas:** PWA · Offline Architecture · Local Storage · Productivity Systems  
+---
+### AI Health PWA
+Mobile-first PWA delivering AI-assisted healthcare interactions through multimodal interfaces.
 
-**Stack:** TypeScript
+- Developed AI chat system for user queries and guidance  
+- Integrated voice input and text-to-speech for conversational UX  
+- Designed installable PWA optimized for mobile and low-friction access  
+- Focused on accessibility and real-time interaction  
 
+**Focus Areas:** PWA · AI Systems · Voice Interfaces · Accessibility · Healthcare  
 ---
 
 ## Technical Strengths
