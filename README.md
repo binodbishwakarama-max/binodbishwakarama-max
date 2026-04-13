@@ -16,38 +16,41 @@ Here are some ideas to get you started:
 -->
 # Binod Bishwakarma
 
-Full-stack engineer building AI/ML-powered systems for real-world use.
-
-> Building systems, not features.
+Full-stack engineer building AI/ML-powered systems focused on scalability, performance, and real-world impact.
 
 ---
 
 ## Work
 
-| Project | What it does | Stack |
- [AI Study Assistant](#) | PDF → flashcards & quizzes via LLMs | Next.js · FastAPI · Groq/Gemini 
- [SmartNews](#) | NLP-powered news aggregation + search | FastAPI · scikit-learn · Docker 
- [AI Health PWA](#) | AI chat + voice-enabled healthcare app | React · Python · LLMs 
- [Attendance Tracker](#) | Offline-first PWA for daily tracking | React · Node.js · PWA 
-
-*(Replace `#` with live demo or repo links)*
+- **AI Study Assistant** — LLM-powered pipeline converting PDFs and notes into structured flashcards and quizzes  
+- **Smart News** — full-stack platform with fast search, NLP-based summarization, and Dockerized deployment  
+- **AI Health PWA** — AI-driven healthcare app with chat, voice input, and text-to-speech interfaces  
+- **Attendance Tracker** — offline-first PWA designed for reliable, low-friction daily tracking  
 
 ---
 
 ## Stack
 
-**Frontend** — React · Next.js · TypeScript · PWA  
-**Backend** — Node.js · FastAPI · Python · Express  
-**AI/ML** — scikit-learn · LLMs (Groq · Gemini · OpenAI) · NLP  
-**Infra** — Docker · Redis · MongoDB · Supabase  
+React · Node.js · Express · MongoDB · Redis  
+Python · NLP · LLMs (OpenAI, Gemini, Groq)  
+Docker · PWA · Offline-first systems  
+
+---
+
+## Engineering
+
+- Design for scalability and clarity from the start  
+- Prefer simple, composable systems over complexity  
+- Build offline-first and real-time capable applications  
+- Focus on practical AI integration, not just models  
 
 ---
 
 ## Approach
 
-- Design for scale from day one
-- Prefer clarity over complexity
-- Build with measurable impact
+Build systems, not features.
 
 ---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=binodbishwakarama-max&show_icons=true&theme=tokyonight)
 
