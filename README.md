@@ -39,7 +39,7 @@ Docker · PWA · Offline-first systems
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=binodbishwakarama-max&show_icons=true&theme=tokyonight)
+
 
 ## Engineering Approach
 
